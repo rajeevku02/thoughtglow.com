@@ -1,0 +1,44 @@
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+	"http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+
+<svg  width="709" height="597" viewBox="0 0 709 597" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"  version="1.1">
+  <desc>Lekh Diagram</desc>
+  <ellipse  stroke-linecap="round"  stroke-width="2" stroke="rgb(0, 0, 0)" fill="rgb(210, 228, 252)" fill-opacity="0.901961" cx="330.5" cy="306.5"  rx="70" ry="70"/>
+  <text  x="330.5" y="306.5" style="font-size:15;  fill:rgb(0, 0, 0);  stroke:rgb(0, 0, 0);  dominant-baseline: central; text-anchor: middle;">Why Diagramming?</text>
+  <ellipse  stroke-linecap="round"  stroke-width="2" stroke="rgb(0, 0, 0)" fill="rgb(225, 206, 163)" fill-opacity="0.901961" cx="330.5" cy="90.5"  rx="70" ry="70"/>
+  <text  x="330.5" y="90.5" style="font-size:15;  fill:rgb(0, 0, 0);  stroke:rgb(0, 0, 0);  dominant-baseline: central; text-anchor: middle;">
+    <tspan  x="330.5" dy="-7.5">Clarity and</tspan>
+    <tspan  x="330.5" dy="15"> understanding</tspan>
+  </text>
+  <ellipse  stroke-linecap="round"  stroke-width="2" stroke="rgb(0, 0, 0)" fill="rgb(255, 153, 0)" fill-opacity="0.901961" cx="618.5" cy="306.5"  rx="70" ry="70"/>
+  <text  x="618.5" y="306.5" style="font-size:15;  fill:rgb(0, 0, 0);  stroke:rgb(0, 0, 0);  dominant-baseline: central; text-anchor: middle;">
+    <tspan  x="618.5" dy="-7.5">Facilitates</tspan>
+    <tspan  x="618.5" dy="15"> Decision-Making</tspan>
+  </text>
+  <ellipse  stroke-linecap="round"  stroke-width="2" stroke="rgb(0, 0, 0)" fill="rgb(195, 255, 104)" fill-opacity="0.901961" cx="466.5" cy="506.5"  rx="70" ry="70"/>
+  <text  x="466.5" y="506.5" style="font-size:15;  fill:rgb(0, 0, 0);  stroke:rgb(0, 0, 0);  dominant-baseline: central; text-anchor: middle;">
+    <tspan  x="466.5" dy="-7.5">Enhances</tspan>
+    <tspan  x="466.5" dy="15"> Collaboration</tspan>
+  </text>
+  <ellipse  stroke-linecap="round"  stroke-width="2" stroke="rgb(0, 0, 0)" fill="rgb(1, 141, 175)" fill-opacity="0.901961" cx="162.5" cy="506.5"  rx="70" ry="70"/>
+  <text  x="162.5" y="506.5" style="font-size:15;  fill:rgb(0, 0, 0);  stroke:rgb(0, 0, 0);  dominant-baseline: central; text-anchor: middle;">
+    <tspan  x="162.5" dy="-7.5">Improves</tspan>
+    <tspan  x="162.5" dy="15"> Documentation</tspan>
+  </text>
+  <ellipse  stroke-linecap="round"  stroke-width="2" stroke="rgb(0, 0, 0)" fill="rgb(0, 255, 255)" fill-opacity="0.901961" cx="90.5" cy="306.5"  rx="70" ry="70"/>
+  <text  x="90.5" y="306.5" style="font-size:15;  fill:rgb(0, 0, 0);  stroke:rgb(0, 0, 0);  dominant-baseline: central; text-anchor: middle;">
+    <tspan  x="90.5" dy="-7.5">Supports</tspan>
+    <tspan  x="90.5" dy="15"> Problem-Solving</tspan>
+  </text>
+  <path  stroke-linecap="round"  stroke-width="2" stroke="rgb(0, 0, 0)" fill="none" d=" M 330.5,232.5  L 330.5,164.5 "/>
+  <path  stroke-linecap="round"  stroke-width="2" stroke="rgb(0, 0, 0)" fill="rgb(0, 0, 0)" d=" M 324,174.5  L 337,174.5  L 330.5,164.5  Z "/>
+  <path  stroke-linecap="round"  stroke-width="2" stroke="rgb(0, 0, 0)" fill="none" d=" M 256.5,306.5  L 164.5,306.5 "/>
+  <path  stroke-linecap="round"  stroke-width="2" stroke="rgb(0, 0, 0)" fill="rgb(0, 0, 0)" d=" M 174.5,313  L 174.5,300  L 164.5,306.5  Z "/>
+  <path  stroke-linecap="round"  stroke-width="2" stroke="rgb(0, 0, 0)" fill="none" d=" M 404.5,306.5  L 544.5,306.5 "/>
+  <path  stroke-linecap="round"  stroke-width="2" stroke="rgb(0, 0, 0)" fill="rgb(0, 0, 0)" d=" M 534.5,300  L 534.5,313  L 544.5,306.5  Z "/>
+  <path  stroke-linecap="round"  stroke-width="2" stroke="rgb(0, 0, 0)" fill="none" d=" M 372.111,367.692  L 424.889,445.307 "/>
+  <path  stroke-linecap="round"  stroke-width="2" stroke="rgb(0, 0, 0)" fill="rgb(0, 0, 0)" d=" M 424.641,433.383  L 413.891,440.693  L 424.889,445.307  Z "/>
+  <path  stroke-linecap="round"  stroke-width="2" stroke="rgb(0, 0, 0)" fill="none" d=" M 282.904,363.162  L 210.096,449.838 "/>
+  <path  stroke-linecap="round"  stroke-width="2" stroke="rgb(0, 0, 0)" fill="rgb(0, 0, 0)" d=" M 221.505,446.362  L 211.551,438  L 210.096,449.838  Z "/>
+</svg>
