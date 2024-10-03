@@ -1,9 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:news="http://www.google.com/schemas/sitemap-news/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:mobile="http://www.google.com/schemas/sitemap-mobile/1.0" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
-<url><loc>https://www.thoughtglow.com</loc><lastmod>2024-04-10T14:36:52.424Z</lastmod></url>
-<url><loc>https://www.thoughtglow.com/about.html</loc><lastmod>2024-04-10T14:36:52.424Z</lastmod></url>
-<url><loc>https://www.thoughtglow.com/contact.html</loc><lastmod>2024-04-10T14:36:52.424Z</lastmod></url>
-<url><loc>https://www.thoughtglow.com/legal/privacy.html</loc><lastmod>2024-04-10T14:36:52.424Z</lastmod></url>
-<url><loc>https://www.thoughtglow.com/legal/terms.html</loc><lastmod>2024-04-10T14:36:52.424Z</lastmod></url>
-<url><loc>https://www.thoughtglow.com/webinar.html</loc><lastmod>2024-04-10T14:36:52.424Z</lastmod></url>
+<url><loc>https://www.thoughtglow.com</loc><lastmod>2024-10-03T08:26:55.704Z</lastmod></url>
+<url><loc>https://www.thoughtglow.com/about.html</loc><lastmod>2024-10-03T08:26:55.704Z</lastmod></url>
+<url><loc>https://www.thoughtglow.com/blog.html</loc><lastmod>2024-10-03T08:26:55.704Z</lastmod></url>
+<url><loc>https://www.thoughtglow.com/contact.html</loc><lastmod>2024-10-03T08:26:55.704Z</lastmod></url>
+<url><loc>https://www.thoughtglow.com/faqs.html</loc><lastmod>2024-10-03T08:26:55.704Z</lastmod></url>
+<url><loc>https://www.thoughtglow.com/legal/privacy.html</loc><lastmod>2024-10-03T08:26:55.704Z</lastmod></url>
+<url><loc>https://www.thoughtglow.com/legal/terms.html</loc><lastmod>2024-10-03T08:26:55.704Z</lastmod></url>
+<url><loc>https://www.thoughtglow.com/webinar.html</loc><lastmod>2024-10-03T08:26:55.704Z</lastmod></url>
+<url><loc>https://www.thoughtglow.com/blog/mastering-python.html</loc><lastmod>2024-10-03T08:26:55.704Z</lastmod></url>
+<url><loc>https://www.thoughtglow.com/blog/career-growth.html</loc><lastmod>2024-10-03T08:26:55.704Z</lastmod></url>
+<url><loc>https://www.thoughtglow.com/blog/ds-algo.html</loc><lastmod>2024-10-03T08:26:55.704Z</lastmod></url>
 </urlset>
